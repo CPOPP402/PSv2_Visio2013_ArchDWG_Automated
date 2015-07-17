@@ -11,7 +11,7 @@ and connectors representing the relationship betwen systems with TCP ports.
 Specific Data Collected:
 
 1. All network adapters, all IP Addresses bound to an adapter
-2. Basic System information (Serial, Make, Model, Memory, Disk, Disk Frre Space
+2. Basic System information (Serial, Make, Model, Memory, Disk, Disk Free Space
 3. Active connections to other systems
 
 Specific Files / File Version / File Disposition / File Description:
