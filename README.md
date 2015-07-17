@@ -14,6 +14,11 @@ Specific Data Collected:
 2. Basic System information (Serial, Make, Model, Memory, Disk, Disk Free Space
 3. Active connections to other systems
 
+Requirements:
+
+1. PowerShell Remoting enabled on targets
+
+
 Specific Files / File Version / File Disposition / File Description:
 
 
